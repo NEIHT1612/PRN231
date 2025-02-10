@@ -1,0 +1,16 @@
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\appsettings.json
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\PRN231\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
