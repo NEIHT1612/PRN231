@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace BusinessObject.DataAccess
+namespace BusinessObject.Model
 {
     public partial class Order
     {
@@ -21,16 +21,13 @@ namespace BusinessObject.DataAccess
         public int MemberId { get; set; }
 
         [JsonPropertyName("OrderDate")]
-        [JsonIgnore]
         public DateTime OrderDate { get; set; }
 
         [JsonPropertyName("RequiredDate")]
-        [JsonIgnore]
-        public DateTime? RequiredDate { get; set; }
+        public DateTime RequiredDate { get; set; }
 
         [JsonPropertyName("ShippedDate")]
-        [JsonIgnore]
-        public DateTime? ShippedDate { get; set; }
+        public DateTime ShippedDate { get; set; }
 
         [JsonPropertyName("Freight")]
         public decimal? Freight { get; set; }

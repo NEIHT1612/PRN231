@@ -215,6 +215,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
+              },
               "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj"
               }

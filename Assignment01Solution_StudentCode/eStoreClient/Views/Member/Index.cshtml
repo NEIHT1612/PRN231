@@ -1,4 +1,4 @@
-﻿@model IEnumerable<BusinessObject.DataAccess.Member>
+﻿@model IEnumerable<BusinessObject.Model.Member>
 
 @{
     ViewData["Title"] = "ListCustomers";
@@ -72,6 +72,7 @@ else
                     </td>
 
                     <td>
+                        <a class="btn btn-light" asp-action="Detail" asp-route-id="@item.MemberId">Detail</a>
                         <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.MemberId">Edit</a>
                         <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.MemberId">Delete</a>
                     </td>

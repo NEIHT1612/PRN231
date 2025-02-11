@@ -2,7 +2,7 @@
 using DataAccess.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using BusinessObject.DataAccess;
+using BusinessObject.Model;
 
 namespace eStoreAPI.Controllers
 {

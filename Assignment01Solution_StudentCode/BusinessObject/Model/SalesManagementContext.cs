@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 
-namespace BusinessObject.DataAccess
+namespace BusinessObject.Model
 {
     public partial class SalesManagementContext : DbContext
     {

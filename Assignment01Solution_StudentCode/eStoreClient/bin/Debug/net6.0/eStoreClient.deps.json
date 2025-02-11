@@ -9,6 +9,7 @@
       "eStoreClient/1.0.0": {
         "dependencies": {
           "BusinessObject": "1.0.0",
+          "DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.35",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.18"
         },
@@ -2485,6 +2486,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "DataAccess/1.0.0": {
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -4000,6 +4012,11 @@
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
     "BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

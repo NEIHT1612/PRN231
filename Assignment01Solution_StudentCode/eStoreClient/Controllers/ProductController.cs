@@ -1,4 +1,4 @@
-﻿using BusinessObject.DataAccess;
+﻿using BusinessObject.Model;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Headers;
 

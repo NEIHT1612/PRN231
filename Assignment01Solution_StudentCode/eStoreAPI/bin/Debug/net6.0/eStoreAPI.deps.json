@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "eStoreAPI/1.0.0": {
         "dependencies": {
+          "BusinessObject": "1.0.0",
           "DataAccess": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },

@@ -26,8 +26,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Member/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Member/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Order/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/PRN231/Assignment01Solution_StudentCode/eStoreClient/Views/Order/Index.cshtml]
