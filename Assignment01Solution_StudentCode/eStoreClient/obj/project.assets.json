@@ -3728,6 +3728,19 @@
         "runtime": {
           "bin/placeholder/BusinessObject.dll": {}
         }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BusinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
+        }
       }
     }
   },
@@ -10523,33 +10536,39 @@
       "type": "project",
       "path": "../BusinessObject/BusinessObject.csproj",
       "msbuildProject": "../BusinessObject/BusinessObject.csproj"
+    },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessObject >= 1.0.0",
+      "DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.35",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.18"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Users\\caomi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreClient\\eStoreClient.csproj",
+      "projectUniqueName": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\eStoreClient.csproj",
       "projectName": "eStoreClient",
-      "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreClient\\eStoreClient.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreClient\\obj\\",
+      "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\eStoreClient.csproj",
+      "packagesPath": "C:\\Users\\caomi\\.nuget\\packages\\",
+      "outputPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10565,8 +10584,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
+            "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
+            },
+            "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj"
             }
           }
         }

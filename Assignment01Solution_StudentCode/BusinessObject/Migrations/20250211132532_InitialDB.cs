@@ -26,7 +26,8 @@ namespace BusinessObject.Migrations
                 name: "Member",
                 columns: table => new
                 {
-                    MemberId = table.Column<int>(type: "int", nullable: false),
+                    MemberId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Email = table.Column<string>(type: "varchar(100)", unicode: false, maxLength: 100, nullable: true),
                     CompanyName = table.Column<string>(type: "varchar(40)", unicode: false, maxLength: 40, nullable: true),
                     City = table.Column<string>(type: "varchar(15)", unicode: false, maxLength: 15, nullable: true),
@@ -42,7 +43,8 @@ namespace BusinessObject.Migrations
                 name: "Product",
                 columns: table => new
                 {
-                    ProductId = table.Column<int>(type: "int", nullable: false),
+                    ProductId = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     CategoryId = table.Column<int>(type: "int", nullable: true),
                     ProductName = table.Column<string>(type: "varchar(40)", unicode: false, maxLength: 40, nullable: true),
                     Weight = table.Column<string>(type: "varchar(20)", unicode: false, maxLength: 20, nullable: true),

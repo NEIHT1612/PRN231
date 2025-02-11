@@ -1,10 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\",
+  "WorkspaceRootPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|e:\\prn231\\assignment01solution_studentcode\\estoreclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\businessobject\\model\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\member\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\member\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A898B7-200E-4B68-A26C-FACC52A8AA50}|eStoreAPI\\eStoreAPI.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13A898B7-200E-4B68-A26C-FACC52A8AA50}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805EA82C-C6CA-48AF-8AC0-B7E6BDA4C76F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\businessobject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A898B7-200E-4B68-A26C-FACC52A8AA50}|eStoreAPI\\eStoreAPI.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreapi\\controllers\\memberapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A898B7-200E-4B68-A26C-FACC52A8AA50}|eStoreAPI\\eStoreAPI.csproj|solutionrelative:estoreapi\\controllers\\memberapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\businessobject\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73EE1BE-2850-4F7E-A443-BB30959C7D15}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|c:\\fpt\\fpt\\sp25\\prn231\\as1\\assignment01solution_studentcode\\estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1996A938-14DA-488C-A040-7EE0662D2D7E}|eStoreClient\\eStoreClient.csproj|solutionrelative:estoreclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +106,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -31,18 +139,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -78,32 +174,310 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T09:18:44.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\appsettings.json",
+              "RelativeDocumentMoniker": "eStoreClient\\appsettings.json",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\appsettings.json",
+              "RelativeToolTip": "eStoreClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T13:49:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T13:42:51.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Edit.cshtml*",
+              "RelativeToolTip": "eStoreClient\\Views\\Member\\Edit.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:28:14.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Controllers\\MemberController.cs*",
+              "RelativeToolTip": "eStoreClient\\Controllers\\MemberController.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:12:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T10:25:54.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "eStoreClient\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:09:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "eStoreClient\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "eStoreClient\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:41:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Program.cs",
+              "RelativeDocumentMoniker": "eStoreClient\\Program.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Program.cs",
+              "RelativeToolTip": "eStoreClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:12:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesManagementContext.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\SalesManagementContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\SalesManagementContext.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\SalesManagementContext.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\SalesManagementContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwB4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:21:41.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Detail.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Member\\Detail.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Detail.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Member\\Detail.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:33:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:21:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:33:59.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:32:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T10:26:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "eStoreAPI\\appsettings.json",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\appsettings.json",
+              "RelativeToolTip": "eStoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T13:27:27.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:34:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:34:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:33:53.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Order.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\Order.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Order.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:30:45.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberAPI.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\Controllers\\MemberAPI.cs",
+              "RelativeDocumentMoniker": "eStoreAPI\\Controllers\\MemberAPI.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\Controllers\\MemberAPI.cs",
+              "RelativeToolTip": "eStoreAPI\\Controllers\\MemberAPI.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:30:10.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:27:50.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T09:18:44.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T10:25:53.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "eStoreClient\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreClient\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "eStoreClient\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T10:25:51.537Z"
             }
           ]
         },

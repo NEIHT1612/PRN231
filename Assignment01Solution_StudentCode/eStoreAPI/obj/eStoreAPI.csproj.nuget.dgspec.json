@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj": {}
+    "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj": {}
   },
   "projects": {
-    "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\obj\\",
+        "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\caomi\\.nuget\\packages\\",
+        "outputPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,20 +103,20 @@
         }
       }
     },
-    "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
+    "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\obj\\",
+        "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\caomi\\.nuget\\packages\\",
+        "outputPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -132,8 +132,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
+              "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -186,20 +186,20 @@
         }
       }
     },
-    "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj": {
+    "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj",
+        "projectUniqueName": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj",
         "projectName": "eStoreAPI",
-        "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\eStoreAPI\\obj\\",
+        "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\eStoreAPI.csproj",
+        "packagesPath": "C:\\Users\\caomi\\.nuget\\packages\\",
+        "outputPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\eStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -215,8 +215,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\PRN231\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj"
+              "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\BusinessObject\\BusinessObject.csproj"
+              },
+              "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\FPT\\FPT\\SP25\\PRN231\\AS1\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj"
               }
             }
           }

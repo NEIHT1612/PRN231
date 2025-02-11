@@ -1,4 +1,5 @@
-﻿using BusinessObject.DataAccess;
+﻿
+using BusinessObject.Model;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
