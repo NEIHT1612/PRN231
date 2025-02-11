@@ -7,36 +7,52 @@
       "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F226038-43B3-4769-BA64-7334F0391A79}|ProductManagementAPI\\ProductManagementAPI.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementapi\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F226038-43B3-4769-BA64-7334F0391A79}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\productscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9EDCE9-D5F3-47BC-8602-7AC13ECC8AE2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F226038-43B3-4769-BA64-7334F0391A79}|ProductManagementAPI\\ProductManagementAPI.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F226038-43B3-4769-BA64-7334F0391A79}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|solutionrelative:productmanagementwebclient\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\businessobjects\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE3D8FA-6026-4FA2-BF25-B08AC5BF633F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D78DFBE7-D3DC-4615-981C-4E5F59E3AFA9}|ProductManagementWebClient\\ProductManagementWebClient.csproj|e:\\prn231\\lab01_asp.netcorewebapi\\productmanagementwebclient\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,30 +147,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementWebClient\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductManagementWebClient\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:21:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementWebClient\\Views\\Product\\Create.cshtml",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManagementWebClient\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:03:33.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsControllers.cs",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:34:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementWebClient\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementWebClient\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:17:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProductManagementWebClient\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ProductManagementWebClient\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T07:49:04.31Z"
+              "WhenOpened": "2025-02-11T07:49:04.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\MyDbContext.cs",
-              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\MyDbContext.cs",
-              "RelativeToolTip": "BusinessObjects\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T00:37:30.451Z"
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementWebClient\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementWebClient\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:28:05.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\Category.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
@@ -166,32 +236,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductManagementWebClient\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\MyDbContext.cs",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\MyDbContext.cs",
+              "RelativeToolTip": "BusinessObjects\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T07:17:09.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T00:37:30.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsControllers.cs",
-              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
-              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
-              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\ProductsControllers.cs",
-              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductsControllers.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:34:36.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\Product.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
@@ -203,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\CategoriesController.cs",
@@ -215,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\DataAccess\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
@@ -227,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "ProductManagementWebClient\\Views\\Product\\Edit.cshtml",
@@ -239,15 +296,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "ProductManagementWebClient\\Views\\Product\\Details.cshtml",
               "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\ProductManagementWebClient\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "ProductManagementWebClient\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T14:05:58.475Z"
+              "WhenOpened": "2025-02-10T14:05:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "E:\\PRN231\\Lab01_ASP.NETCoreWebAPI\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:13:56.316Z"
             }
           ]
         },
