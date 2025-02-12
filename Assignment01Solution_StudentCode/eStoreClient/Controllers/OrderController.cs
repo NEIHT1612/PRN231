@@ -38,7 +38,12 @@ namespace eStoreClient.Controllers
         [HttpGet]
         public async Task<IActionResult> Detail(int orderID)
         {
-            HttpResponseMessage orderDetailResponse = await client.GetAsync($"{OrderDetailApiUrl}/order/{orderID}/{orderID}");
+            Console.WriteLine($"OrderID nhận được: {orderID}"); 
+            if (orderID == 0)
+            {
+                return BadRequest("Order ID không hợp lệ!");
+            }
+            HttpResponseMessage orderDetailResponse = await client.GetAsync($"{OrderDetailApiUrl}/{orderID}/{orderID}");
             OrderDetail listOrderDetails = await orderDetailResponse.Content.ReadFromJsonAsync<OrderDetail>();
             return View(listOrderDetails);
         }
