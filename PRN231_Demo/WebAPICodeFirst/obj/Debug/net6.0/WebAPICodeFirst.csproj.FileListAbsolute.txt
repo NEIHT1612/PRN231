@@ -69,3 +69,4 @@ E:\PRN231\PRN231_Demo\WebAPICodeFirst\obj\Debug\net6.0\WebAPICodeFirst.genruntim
 E:\PRN231\PRN231_Demo\WebAPICodeFirst\obj\Debug\net6.0\ref\WebAPICodeFirst.dll
 E:\PRN231\PRN231_Demo\WebAPICodeFirst\bin\Debug\net6.0\AutoMapper.dll
 E:\PRN231\PRN231_Demo\WebAPICodeFirst\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PRN231\PRN231_Demo\WebAPICodeFirst\obj\Debug\net6.0\WebAPICodeFirst.sourcelink.json

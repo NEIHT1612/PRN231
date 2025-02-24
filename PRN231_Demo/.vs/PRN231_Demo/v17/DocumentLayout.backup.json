@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\PRN231\\PRN231_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|e:\\prn231\\prn231_demo\\webapicodefirst\\playerservices\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|solutionrelative:webapicodefirst\\playerservices\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|e:\\prn231\\prn231_demo\\webapicodefirst\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|solutionrelative:webapicodefirst\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|e:\\prn231\\prn231_demo\\webapicodefirst\\playerservices\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74C10C-5265-4467-A5E5-84DC1702182B}|WebAPICodeFirst\\WebAPICodeFirst.csproj|solutionrelative:webapicodefirst\\playerservices\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,55 +103,68 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 356,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayersController.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\Controllers\\PlayersController.cs",
-              "RelativeDocumentMoniker": "WebAPICodeFirst\\Controllers\\PlayersController.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\Controllers\\PlayersController.cs",
-              "RelativeToolTip": "WebAPICodeFirst\\Controllers\\PlayersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Press.cs",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\Press.cs",
+              "RelativeDocumentMoniker": "WebAPIOData2\\Models\\Press.cs",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\Press.cs",
+              "RelativeToolTip": "WebAPIOData2\\Models\\Press.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T06:09:44.244Z",
+              "WhenOpened": "2025-02-20T11:18:51.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerService.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\PlayerServices\\PlayerService.cs",
-              "RelativeDocumentMoniker": "WebAPICodeFirst\\PlayerServices\\PlayerService.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\PlayerServices\\PlayerService.cs",
-              "RelativeToolTip": "WebAPICodeFirst\\PlayerServices\\PlayerService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEEAAAARAAAAAAAAAA==",
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "WebAPIOData2\\Models\\BookStoreContext.cs",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\BookStoreContext.cs",
+              "RelativeToolTip": "WebAPIOData2\\Models\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T05:52:23.671Z",
+              "WhenOpened": "2025-02-20T11:09:16.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIOData2\\Program.cs",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Program.cs",
+              "RelativeToolTip": "WebAPIOData2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:08:34.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IPlayerService.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\PlayerServices\\IPlayerService.cs",
-              "RelativeDocumentMoniker": "WebAPICodeFirst\\PlayerServices\\IPlayerService.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPICodeFirst\\PlayerServices\\IPlayerService.cs",
-              "RelativeToolTip": "WebAPICodeFirst\\PlayerServices\\IPlayerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "WebAPIOData2\\Controllers\\PressesController.cs",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "WebAPIOData2\\Controllers\\PressesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T05:51:39.801Z",
+              "WhenOpened": "2025-02-20T09:37:13.317Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

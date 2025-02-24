@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zdEFTUM9idQAqt88tD08R0wqtG815l7UJZbVWgn2Og8=",
+  "Source": "WebAPIContentNegotiation",
+  "BasePath": "_content/WebAPIContentNegotiation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
