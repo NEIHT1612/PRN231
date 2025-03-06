@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIContentNegotiation", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIOData", "WebAPIOData\WebAPIOData.csproj", "{0C5E9DBF-6A16-43E6-B023-AB2B79909048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIOData2", "WebAPIOData2\WebAPIOData2.csproj", "{30CA13D6-6753-48B2-8A25-CD61341EB22C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIOData2", "WebAPIOData2\WebAPIOData2.csproj", "{30CA13D6-6753-48B2-8A25-CD61341EB22C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgressTest6", "ProgressTest6\ProgressTest6.csproj", "{97ED7E36-2E65-40FA-B23E-1F75B1076D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIReservation", "WebAPIReservation\WebAPIReservation.csproj", "{228417F3-330D-4172-9652-5706B31D5C1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{30CA13D6-6753-48B2-8A25-CD61341EB22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30CA13D6-6753-48B2-8A25-CD61341EB22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30CA13D6-6753-48B2-8A25-CD61341EB22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ED7E36-2E65-40FA-B23E-1F75B1076D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ED7E36-2E65-40FA-B23E-1F75B1076D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ED7E36-2E65-40FA-B23E-1F75B1076D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ED7E36-2E65-40FA-B23E-1F75B1076D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228417F3-330D-4172-9652-5706B31D5C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228417F3-330D-4172-9652-5706B31D5C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228417F3-330D-4172-9652-5706B31D5C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228417F3-330D-4172-9652-5706B31D5C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\PRN231\\PRN231_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|e:\\prn231\\prn231_demo\\webapireservation\\wwwroot\\add.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|solutionrelative:webapireservation\\wwwroot\\add.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|e:\\prn231\\prn231_demo\\webapireservation\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|solutionrelative:webapireservation\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\models\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|e:\\prn231\\prn231_demo\\webapireservation\\wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|solutionrelative:webapireservation\\wwwroot\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|e:\\prn231\\prn231_demo\\webapiodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30CA13D6-6753-48B2-8A25-CD61341EB22C}|WebAPIOData2\\WebAPIOData2.csproj|solutionrelative:webapiodata2\\models\\press.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|e:\\prn231\\prn231_demo\\webapireservation\\wwwroot\\view.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228417F3-330D-4172-9652-5706B31D5C1C}|WebAPIReservation\\WebAPIReservation.csproj|solutionrelative:webapireservation\\wwwroot\\view.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,56 +105,57 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Press.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\Press.cs",
-              "RelativeDocumentMoniker": "WebAPIOData2\\Models\\Press.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\Press.cs",
-              "RelativeToolTip": "WebAPIOData2\\Models\\Press.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:18:51.64Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookStoreContext.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\BookStoreContext.cs",
-              "RelativeDocumentMoniker": "WebAPIOData2\\Models\\BookStoreContext.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Models\\BookStoreContext.cs",
-              "RelativeToolTip": "WebAPIOData2\\Models\\BookStoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:09:16.713Z",
+              "DocumentIndex": 0,
+              "Title": "Add.html",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Add.html",
+              "RelativeDocumentMoniker": "WebAPIReservation\\wwwroot\\Add.html",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Add.html",
+              "RelativeToolTip": "WebAPIReservation\\wwwroot\\Add.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-03T07:46:29.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIOData2\\Program.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Program.cs",
-              "RelativeToolTip": "WebAPIOData2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:08:34.073Z",
-              "EditorCaption": ""
+              "Title": "Update.html",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Update.html",
+              "RelativeDocumentMoniker": "WebAPIReservation\\wwwroot\\Update.html",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Update.html",
+              "RelativeToolTip": "WebAPIReservation\\wwwroot\\Update.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-03T07:44:13.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PressesController.cs",
-              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Controllers\\PressesController.cs",
-              "RelativeDocumentMoniker": "WebAPIOData2\\Controllers\\PressesController.cs",
-              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIOData2\\Controllers\\PressesController.cs",
-              "RelativeToolTip": "WebAPIOData2\\Controllers\\PressesController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T09:37:13.317Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Detail.html",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Detail.html",
+              "RelativeDocumentMoniker": "WebAPIReservation\\wwwroot\\Detail.html",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\Detail.html",
+              "RelativeToolTip": "WebAPIReservation\\wwwroot\\Detail.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-03T07:32:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.html",
+              "DocumentMoniker": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\View.html",
+              "RelativeDocumentMoniker": "WebAPIReservation\\wwwroot\\View.html",
+              "ToolTip": "E:\\PRN231\\PRN231_Demo\\WebAPIReservation\\wwwroot\\View.html",
+              "RelativeToolTip": "WebAPIReservation\\wwwroot\\View.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-03T06:54:02.226Z"
             }
           ]
         },
